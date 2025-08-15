@@ -12,20 +12,13 @@ No momento só é possível utilizar assinaturas do tipo `A1` em arquivos no for
 
 # Instalação
 
-PyPi:
 ```
-pip install libesocial
-```
-
-A versão mais recente diretamente do repositório:
-
-```
-pip install https://github.com/qualitaocupacional/libesocial/archive/main.zip
+pip install https://github.com/glieai/libesocial/archive/main.zip
 ```
 
 Ou você pode clonar este repositório:
 ```
-git clone https://github.com/qualitaocupacional/libesocial
+git clone https://github.com/glieai/libesocial
 ```
 
 Entrar na pasta do repositório recém clonado:
